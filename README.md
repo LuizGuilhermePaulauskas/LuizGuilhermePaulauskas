@@ -2,9 +2,9 @@
 
 
 
-- 🔭 Hoje trabalho com Engenharia Mecânica.
+- 🔭 Hoje trabalho com Engenharia Mecânica
 - 🌱 Estudando Desenvolvimento Front-end
-- 😄 Pronouns:ele/dele
+- 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Apaixonado por tecnologia rs
 
 <div align="center">
