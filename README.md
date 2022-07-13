@@ -4,8 +4,7 @@
 
 - 🔭 Hoje trabalho com Engenharia Mecânica
 - 🌱 Estudando Desenvolvimento Front-end
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Apaixonado por tecnologia rs
+- ⚡ Fun fact: Apaixonado por tecnologia 
 
 <div align="center">
   <a href="https://github.com/luizguilhermepaulauskas">
